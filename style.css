@@ -1,0 +1,14 @@
+body{
+    background-color: rgb(35,52,66);
+    
+}
+h1{
+    list-style-type: none;
+    margin: 0;
+    overflow: hidden;
+    display: block;
+    padding: 8px;
+    background-color: rgb(128, 165, 196);
+    color: blanchedalmond;
+
+}
